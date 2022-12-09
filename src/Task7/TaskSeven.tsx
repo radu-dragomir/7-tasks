@@ -39,6 +39,10 @@ const TaskSeven = () => {
           </tbody>
         </table>
       </div>
+      <div>
+        Type "=SUM(a0:b0)" to add 2 cells together. Replace SUM with SUB/MUL/DIV for different
+        operations
+      </div>
     </div>
   );
 };
